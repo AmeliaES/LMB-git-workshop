@@ -1,11 +1,11 @@
 # Issue tracking exercise
 
-Why am I a bad README? Find the errors to fix and the issues to improve me. Thanks!
+Why am I a bad README? Find the errors to fix and submit the issues to improve me. Thanks!
 
-## Projet description
+## Project description
 
- ### Sub-tittle
+ ### Sub-title
 
-# Intallation instruction
+# Installation instruction
 
-- Usage
+- Usage: Here would add content for the usage.
